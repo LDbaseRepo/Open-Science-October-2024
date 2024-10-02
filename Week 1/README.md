@@ -1,5 +1,8 @@
-![Open Science October 2024 Week 1 Banner](https://github.com/user-attachments/assets/5ae45af1-db81-48a2-b150-e92711f712f9)
+
 # Week 1 - The Home Math Environment
+
+![Open Science October 2024 Week 1 Banner](https://github.com/user-attachments/assets/a2d4713d-daf8-4a4b-94c3-474dfc8d66a7)
+
 Week 1 of #OpenScienceOctober features the [Home Math Environment Study](https://ldbase.org/projects/49d02437-600d-45ab-ac52-04c91ad6502a)!
 
 
