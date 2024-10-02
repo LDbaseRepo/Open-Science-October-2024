@@ -1,10 +1,10 @@
-![Alt Text](images/Open%20Science%20October%20Promo_General_Twitter.png)
-# Open Science October 2023
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# Open Science October 2024
 Data sharing isn't spooky! Open Science October is frightfully fun event to practice and showcase your data viz skills. For 4 weeks in October, we will feature one dataset from [LDbase.org](LDbase.org) and challenge all who wish to participate to create a data visualization! Those who participate will be sent LDbase merch and be entered in a raffle to win a giftcard.
 # What is LDbase?
 [LDbase](ldbase.org) is an NIH-funded domain-specific repository for researchers in the educational and developmental sciences. It's an open science resource providing a secure place to store and access data, as well as other data sharing resources. If you're new to LDbase, check out our [welcome video](https://www.youtube.com/watch?v=Z2RpHha5tYY) and the LDbase [Getting Started Guide](https://www.ldbase.org/data-sharing-resources/guides/getting-started) to get going.
 # How do I participate?
-- Starting October 9, featured LDbase datasets will be announced posted on **Monday** on all LDbase social media platforms.
+- Starting October 7, featured LDbase datasets will be announced posted on **Monday** on all LDbase social media platforms.
    - Twitter: [@LDbaseRepo](https://twitter.com/ldbaseRepo)
    - Instagram: [@LDbaseRepo](https://www.instagram.com/ldbaserepo/)
    - LinkedIn: [@LDbaseRepo](https://www.linkedin.com/company/ldbase/?viewAsMember=true)
@@ -23,7 +23,7 @@ Data sharing isn't spooky! Open Science October is frightfully fun event to prac
 # Datasets
 | Week          | Posted on     | Theme                   |
 | ------------- |:-------------:| -----------------------:|
-| 1             | October 9     |  [Social and Emotional Development](Week%201/README.md)|
-| 2             | October 16     |  [Dyslexia Awareness Month](Week%202/README.md) |
-| 3             | October 23     |  [Math](Week%203/README.md) |
-| 4             | October 30     |  [Longitudinal](Week%204/README.md) |
+| 1             | October 7     |  [Social and Emotional Development](Week%201/README.md)|
+| 2             | October 14     |  [Dyslexia Awareness Month](Week%202/README.md) |
+| 3             | October 21     |  [Math](Week%203/README.md) |
+| 4             | October 28     |  [Longitudinal](Week%204/README.md) |
