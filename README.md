@@ -24,7 +24,7 @@ Data sharing isn't spooky! Open Science October is frightfully fun event to prac
 # Datasets
 | Week          | Posted on     | Theme                   |
 | ------------- |:-------------:| -----------------------:|
-| 1             | October 7     |  [Social and Emotional Development](Week%201/README.md)|
-| 2             | October 14     |  [Dyslexia Awareness Month](Week%202/README.md) |
-| 3             | October 21     |  [Math](Week%203/README.md) |
-| 4             | October 28     |  [Longitudinal](Week%204/README.md) |
+| 1             | October 7     |  [Home Math Environment](Week%201/README.md)|
+| 2             | October 14     |  [TBD](Week%202/README.md) |
+| 3             | October 21     |  [TBD](Week%203/README.md) |
+| 4             | October 28     |  [Data Sharing](Week%204/README.md) |
