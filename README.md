@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/LDbaseRepo/Open-Science-October-2024/issues/1)
 # Open Science October 2024
 Data sharing isn't spooky! Open Science October is frightfully fun event to practice and showcase your data viz skills. For 4 weeks in October, we will feature one dataset from [LDbase.org](LDbase.org) and challenge all who wish to participate to create a data visualization! Those who participate will be sent LDbase merch and be entered in a raffle to win a giftcard.
 # What is LDbase?
