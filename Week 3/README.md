@@ -34,7 +34,7 @@ Fun Fact: This project shows off a cool feature of LDbase - linking to data stor
 
 # Citation
 *You can also access this citation from the "Get Citation" link on the sidebar of the Project page, Dataset, and Codebook!* 
-Geary, D. C., Scofield, J. E., & Hoard, M. K. (2023). *Sex Differences in Mathematics Anxiety and Attitudes.*https://doi.org/10.1037/edu0000355
+Geary, D. C., Scofield, J. E., & Hoard, M. K. (2023). *Sex Differences in Mathematics Anxiety and Attitudes.* https://doi.org/10.1037/edu0000355
 
 # Supplemental R Syntax
 dat6th <- read.table("MathAnxSixth.csv") # Read in data file for 6th grade
