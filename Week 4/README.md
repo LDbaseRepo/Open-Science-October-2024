@@ -1,4 +1,5 @@
-![Open Science October 2024 - Week 4 Banner](https://github.com/user-attachments/assets/67c7c8c3-836f-4170-a9c1-4ccb2c80dd30)
+![Open Science October 2024 - Week 4 Banner](https://github.com/user-attachments/assets/e17db4d6-24ba-4ec3-a06a-04e84284f134)
+
 # Week 4 - Data Sharing Beliefs and Attitudes
 Week 4 of #OpenScienceOctober features the [Education Researchers' Beliefs and Barriers towards Data Sharing Project](https://ldbase.org/projects/dbf4158d-5e7b-407e-993d-da559c189a93)! We don't think data sharing is spooky, but some researchers might feel otherwise, even if it is a practice that is highly encouraged and increasingly becoming required for federally funded research projects. Prior research suggests that researchers believe data sharing should be practiced often, but many researchers rarely practice it. This project collected data to examine the barriers education researchers may have from engaging in data sharing as a practice.
 
