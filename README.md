@@ -28,4 +28,4 @@ Data sharing isn't spooky! Open Science October is frightfully fun event to prac
 | 1             | October 7     |  [Home Math Environment](Week%201/README.md)|
 | 2             | October 14     |  [Comorbid Reading and Math Difficulty](Week%202/README.md) |
 | 3             | October 21     |  [Math Anxiety and Attitudes](Week%203/README.md) |
-| 4             | October 28     |  [TBD](Week%204/README.md) |
+| 4             | October 28     |  [Data Sharing Beliefs and Attitudes](Week%204/README.md) |
