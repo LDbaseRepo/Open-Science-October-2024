@@ -1,4 +1,4 @@
-![Open Science October 2024 - Week 2 Banner](https://github.com/user-attachments/assets/6a4512f2-d047-4b63-ae3b-0f2f66569544)
+![Open Science October 2024 - Week 2 Banner](https://github.com/user-attachments/assets/d04dc5eb-2d12-44c0-8ae6-42297cc61172)
 # Week 2 - Comorbid Reading and Math Difficulty
 Week 2 of #OpenScienceOctober features the [Comorbid Reading and Math Difficulty at the Start of First Grade](https://ldbase.org/projects/6238a896-f1cc-4cf9-9c52-b23fede10747) data set!
 
