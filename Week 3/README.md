@@ -1,5 +1,4 @@
-![Open Science October 2024 - Week 3 Banner](https://github.com/user-attachments/assets/1da54f7a-96cd-4b6f-86d3-c226130f487f)
-
+![Open Science October 2024 - Week 3 Banner (1)](https://github.com/user-attachments/assets/c4f4022d-7143-4bd2-8ef1-343fd2850739)
 # Week 3 - Math Anxiety and Attitudes
 Week 3 of #OpenScienceOctober features the [MU Math Study Agebra/Math Anxiety Dataset](https://ldbase.org/datasets/7e729b59-761d-4332-a468-d7b86e0ceaa8) from the [MU Math Study Team at the University of Missouri](https://mumathstudy.missouri.edu/)!
 
