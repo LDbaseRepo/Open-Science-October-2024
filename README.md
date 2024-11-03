@@ -1,5 +1,7 @@
-
 # Open Science October 2024![Open Science October Twitter Promo](https://github.com/user-attachments/assets/e379c7e8-6085-4dfb-b263-c6978643cb29)
+# People's Choice Voting - November 4-8
+**Vote for your favorite Data Viz here**: https://fsu.qualtrics.com/jfe/form/SV_ebNERBw7ddQ7218   
+
 
 Data sharing isn't spooky! Open Science October is frightfully fun event to practice and showcase your data viz skills. For 4 weeks in October, we will feature one dataset from [LDbase.org](LDbase.org) and challenge all who wish to participate to create a data visualization! Those who participate will be sent LDbase merch and be entered in a raffle to win a giftcard.
 # What is LDbase?
